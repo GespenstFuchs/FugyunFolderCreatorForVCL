@@ -1,0 +1,2 @@
+# FugyunFolderCreatorForVCL
+Delphi・VCLで作成したふぎゅんフォルダ作成
